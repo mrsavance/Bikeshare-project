@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Bikeshare-project
-||||||| parent of d69179b (Update README.md)
-# Bikeshare-project
-=======
+
 # Bikeshare-project
 
 ## Overview
