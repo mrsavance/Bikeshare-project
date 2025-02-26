@@ -20,7 +20,7 @@ This project analyzes bikeshare data for Chicago, New York City, and Washington,
 bikeshare.py
 chicago.csv
 new_york_city.csv
-washingto.csv
+washingto.csv. 
 
 
 ## License
